@@ -6,6 +6,7 @@ Raspberry
 Peach
 Banana 
 Avocado 
+Mango
 Lime 
 Strawberry 
 These are some fruits

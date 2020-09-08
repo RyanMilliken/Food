@@ -1,0 +1,11 @@
+Fruit 
+
+Apple 
+Orange
+Raspberry 
+Peach
+Banana 
+Avocado 
+Lime 
+Strawberry 
+These are some fruits

@@ -8,5 +8,6 @@ Banana
 Avocado 
 Mango
 Lime 
+Kiwi
 Strawberry 
 These are some fruits

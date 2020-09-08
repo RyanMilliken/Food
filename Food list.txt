@@ -1,4 +1,4 @@
-Fruit and Vegetables 
+Fruit, Vegetables and Dairy
 
 Apple 
 Orange
@@ -22,3 +22,10 @@ Tomato
 Spinach
 Pepper
 These are some vegetables
+
+Milk 
+Cheese
+Yogurt 
+Cream cheese
+Quark
+These are some diary products

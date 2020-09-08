@@ -1,4 +1,4 @@
-Fruit 
+Fruit and Vegetables 
 
 Apple 
 Orange
@@ -11,3 +11,14 @@ Lime
 Kiwi
 Strawberry 
 These are some fruits
+
+Beans 
+Beetroot
+Carrot 
+Eggplant
+Leek
+Turnip
+Tomato
+Spinach
+Pepper
+These are some vegetables
